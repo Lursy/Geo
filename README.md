@@ -277,4 +277,26 @@
     - Revolução industrial
       > 1° e 2° RI: Quantidade
       > 3° e 4° RI: Qualidade
-    
+  - Industria no mundo
+    - industrializado
+      - Europa: Renana, banana azul
+      - Japão: Tokkaido
+      - China: Zee
+      - Tigres asiáticos: Coreia do sul, Taiwan
+      - Sede
+      - alto valor
+      - PDIE
+    - Dependente
+      -  Capital / Tecnologia
+      -  Emergentes
+      -  Dependência
+      -  Filial
+    - Menos / Não industrializado
+      - Sub-desenvolvido
+      - baixo valor agregado
+    - Tecnopolo
+      - Universidade
+      - Investimento
+      - Criação e desenvolvimento
+      > Palo alto, vale do silício, kansai, Tae dok, Munique   
+      > Campinas, São Carlos, Blumenal, Recife
